@@ -1,0 +1,26 @@
+{
+    "name": "doc",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+        ""
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "ohmygold <499452621@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "default",
+        "md": [
+            "index.md",
+            {
+                "jichu": [
+                    "react.md"
+                ]
+            }
+        ]
+    }
+}
